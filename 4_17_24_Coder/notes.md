@@ -1,4 +1,3 @@
-
 # Miles' Stuff
 
 ## slides.com
@@ -37,6 +36,7 @@ Follow Up (Stuff we want to see/Checkout):
 - Homelab Container Orchestration: Nomad 
 - Shared across device bash history: Hishtory
 - ToDos: TaskWarrior, HeyNote, Notepad ++
+- Spark running with Blaze to move compute from JVM to Rust
 
 Next Geek Drink:
  - Hishtory, Perhaps ala Chris Pruitt
